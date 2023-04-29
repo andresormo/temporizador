@@ -1,0 +1,11 @@
+.digital-clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f322f;
+    color: #fbbf3d;
+    text-align: center;
+    width: 160px;
+    height: 80px;
+    border-radius: 15px;
+}
